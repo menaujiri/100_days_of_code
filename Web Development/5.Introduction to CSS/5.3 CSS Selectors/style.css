@@ -6,6 +6,14 @@ ol {
 
 /* Write your CSS below, don't change the rules above. */
 
-p {
+p{
   color: red ;
+}
+
+.note{
+  font-size: 20px
+}
+
+id[id-selector-demo]{
+  color: green
 }
