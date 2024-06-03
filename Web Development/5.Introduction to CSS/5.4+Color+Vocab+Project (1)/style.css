@@ -17,3 +17,9 @@ h2[id="green"]{
 h2[id="yellow"]{
     color: yellow
 }
+
+img{
+    height: 200px;
+    width: 200px;
+}
+
