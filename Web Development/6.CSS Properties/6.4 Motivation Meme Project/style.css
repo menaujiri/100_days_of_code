@@ -14,11 +14,9 @@ h1 {
     color: white;
     font-family: ;
     text-align: center;
-
-
-
 }
 
 .image {
     width: 100%;
+    border: 5px solid white;
 }
