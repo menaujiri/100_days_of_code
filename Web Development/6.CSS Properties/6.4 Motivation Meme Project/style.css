@@ -2,3 +2,23 @@ html {
     background-color: black;
 }
 
+h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+
+.page {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    font-family: ;
+    text-align: center;
+
+
+
+}
+
+.image {
+    width: 100%;
+}
