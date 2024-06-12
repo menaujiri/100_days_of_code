@@ -11,3 +11,12 @@
   background-color: red;
 }
 
+p {
+  color: yellow;
+  margin: 0;
+  padding: 0;
+}
+
+.white-text {
+  color: white;
+}
