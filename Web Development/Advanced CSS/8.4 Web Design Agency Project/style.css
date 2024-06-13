@@ -19,3 +19,11 @@ footer {
   color: midnightblue;
 }
 
+span {
+  color: blue;
+}
+
+.tile-image :right {
+  float: left;
+}
+
