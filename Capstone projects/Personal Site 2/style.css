@@ -1,13 +1,12 @@
 .container1 {
     position: relative;
-    width: 1400px;
-    height: 800px;
+    width: fit-content;
 }
 
 .Test1 {
-    position: relative;
+    position: absolute;
     top: 50%;
     left: 50%;
     color: white;
-    transform: translate(-50%, -50%);
+    font-size: 5rem;
 }
