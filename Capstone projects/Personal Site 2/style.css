@@ -5,8 +5,9 @@
 
 .Test1 {
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 20%;
+    left: 30%;
     color: white;
     font-size: 5rem;
 }
+
