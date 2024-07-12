@@ -11,3 +11,5 @@ var randomChosenColour = bottonColours[randomNumber];
 
 gamePattern.push(randomChosenColour);
 
+$("id=randomChosenColour").fadeOut(100).fadeIn(100).fadeOut(100).fadeIn(100);
+
